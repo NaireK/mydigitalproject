@@ -37,7 +37,7 @@ Mettre en place une infrastructure virtuelle sous **Proxmox**, contenant plusieu
 - Services :
   - **Nginx + PHP + MariaDB**
   - **PhpMyAdmin**
-  - **GitLab (self-hosted)**
+  - **GitLab EE**
   - **Fail2ban**
   - **Runner GitLab**
   - **Promtail**, **Portainer**
@@ -46,7 +46,7 @@ Mettre en place une infrastructure virtuelle sous **Proxmox**, contenant plusieu
 - OS : Debian + Docker
 - Rôle : GitLab + Dev Laravel
 - Services :
-  - **GitLab CE**
+  - **GitLab EE**
   - **Runner GitLab**
   - **Nginx + PHP (Laravel)**
   - **Fail2ban**, **Promtail agent**
