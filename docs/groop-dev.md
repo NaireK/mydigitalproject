@@ -63,3 +63,4 @@ Les services sont répartis sur plusieurs bridges Docker (`172.17.0.0/16`, `172.
 - `node-exporter` exposé pour Prometheus
 - `promtail` collecte les logs et les envoie vers Loki central
 
+---
