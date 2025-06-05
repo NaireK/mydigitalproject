@@ -38,5 +38,4 @@ done
 # Nettoyage local
 rm -rf "${TMP_BACKUP_DIR}"
 echo "🧹 Dossiers temporaires nettoyés."
-
 echo "🎉 Sauvegarde terminée avec succès."
