@@ -115,7 +115,7 @@ Les schémas d’architecture sont disponibles dans [`/assets/screenshots`](asse
 
 ## 📜 Licence
 
-Projet sous licence MIT (modifiable selon tes préférences).
+Projet sous licence MIT
 
 ---
 
